@@ -22,7 +22,7 @@ pip install pystrgpw
 
 The basic usage of this package is explained below.
 
-```Python
+```python
 import pystrgpw
 
 strgpw = pystrgpw.Generator()
