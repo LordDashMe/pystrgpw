@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  site:
+    container_name: 'pystrgpw'
+    tty: true
+    stdin_open: true
+    image: 'python:3.10.7-alpine3.16'
+    volumes:
+      - '.:/var/package/'
+    networks:
+      - default
+networks:
+  default: 
+    name: 'pystrgpw_network'
