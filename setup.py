@@ -5,7 +5,7 @@ with open('README.md', 'r') as f:
 
 setup(
     name='pystrgpw',
-    version='1.0.0',
+    version='1.0.1',
     description='A simple package that generates random characters and can be used for strong passwords.',
     url='https://github.com/LordDashMe/pystrgpw',
     author='Joshua Clifford Reyes',
