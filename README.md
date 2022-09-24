@@ -59,6 +59,10 @@ To run the test cases, use the command below:
 pytest -s --verbose
 ```
 
+##### TravisCI and Coveralls
+
+When using a public repository on GitHub, the integration between TravisCI and Coveralls.io is pretty easy. To get started with coveralls-python, make sure to add your repo on the [Coveralls.io](https://coveralls.io/). If you will be using coveralls-python on TravisCI, you’re done here.
+
 #### Publishing the Package
 
 To build the source code using ```bdist_wheel``` and ```sdist```, use the command below:
