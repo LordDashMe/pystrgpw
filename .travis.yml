@@ -3,9 +3,11 @@ python:
   - '3.9'
 install:
   - pip install -e .[dev]
+  - pip install coveralls
 before_script:
 script: 
-  - pytest -s --verbose
+  - coverage run --source=mypkg -m pytest -s --verbose
+  - coveralls
 after_success:
 notifications:
   on_success: never
