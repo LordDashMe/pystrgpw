@@ -1,6 +1,6 @@
 # pystrgpw
 
-A simple package that generates random characters and can be used for strong passwords.
+A simple package that generates random characters and can be used for strong passwords. :game_die: :lock:
 
 <a href="https://app.travis-ci.com/LordDashMe/pystrgpw">
   <img src="https://img.shields.io/travis/LordDashMe/pystrgpw?style=for-the-badge" />
