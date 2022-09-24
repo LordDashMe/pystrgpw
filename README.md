@@ -6,6 +6,10 @@ A simple package that generates random characters and can be used for strong pas
   <img src="https://img.shields.io/travis/LordDashMe/pystrgpw?style=for-the-badge" />
 </a>
 
+<a href="https://coveralls.io/github/LordDashMe/pystrgpw?branch=master">
+  <img src="https://img.shields.io/coveralls/github/LordDashMe/pystrgpw?style=for-the-badge" />
+</a>
+
 ## Requirements
 
 - Python >= 3.9.x
