@@ -6,7 +6,7 @@ install:
   - pip install coveralls
 before_script:
 script: 
-  - coverage run --source=mypkg -m pytest -s --verbose
+  - coverage run -m pytest -s --verbose
   - coveralls
 after_success:
 notifications:
