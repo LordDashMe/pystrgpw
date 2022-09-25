@@ -10,6 +10,10 @@ A simple package that generates random characters and can be used for strong pas
   <img src="https://img.shields.io/coveralls/github/LordDashMe/pystrgpw?style=for-the-badge" />
 </a>
 
+<a href="https://peps.python.org/pep-0008/">
+  <img src="https://img.shields.io/static/v1?label=PEP8&message=PASSED&color=brightgreen&style=for-the-badge" />
+</a>
+
 ## Requirements
 
 - Python >= 3.9.x
