@@ -3,7 +3,7 @@
 A simple package that generates random characters and can be used for strong passwords. :game_die: :lock:
 
 <a href="https://app.travis-ci.com/LordDashMe/pystrgpw">
-  <img src="https://img.shields.io/travis/LordDashMe/pystrgpw?style=for-the-badge" />
+  <img src="https://img.shields.io/travis/com/LordDashMe/pystrgpw?style=for-the-badge" />
 </a>
 
 <a href="https://coveralls.io/github/LordDashMe/pystrgpw?branch=master">
